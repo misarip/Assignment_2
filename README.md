@@ -1,5 +1,5 @@
 # Data Visualization Assignments
-## [Assignment 2](/tlngstrydataasgn2)
+## Assignment 2
 
 1. **Government Debt chart for the year 2012**
 
